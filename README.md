@@ -1,0 +1,2 @@
+# Web_Auto_Test
+此项目主要构建了一个基于python3+selenium3的Web自动化测试框架
